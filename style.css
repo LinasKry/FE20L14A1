@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 30px;
+}
+table {
+  background: orange;
+  width: 1000px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 30px;
+  margin: auto;
+}
+th {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  padding: 20px;
+}
+td {
+  background: rgb(74, 74, 124);
+  padding: 20px;
+  text-indent: 10px;
+}
+.dorange {
+  background-color: rgba(206, 138, 13, 0.534);
+}
+#inp {
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: antiquewhite;
+}
+input {
+  width: 250px;
+  height: 30px;
+  padding-left: 10px;
+}
